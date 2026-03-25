@@ -52,6 +52,7 @@ Business Analysis
 
 I am interested in roles such as:
 
+R&D Tax Consulting
 Financial Analyst  
 Business Analyst  
 Strategy Analyst  
