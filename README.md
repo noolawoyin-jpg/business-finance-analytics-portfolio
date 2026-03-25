@@ -4,11 +4,11 @@ Welcome to my portfolio of strategy, financial modeling, and business analysis p
 
 I am a finance and business analyst with experience in:
 
-- financial modeling
+- R&D tax consulting
 - KPI dashboards
 - business strategy analysis
 - SaaS unit economics
-- R&D tax consulting
+- Financial Modeling
 - structured problem solving
 
 This repository contains selected projects demonstrating analytical, financial, and strategic thinking.
